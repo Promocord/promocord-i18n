@@ -1,0 +1,1 @@
+# promocord-i18n
